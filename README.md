@@ -4,10 +4,9 @@
 
 ## Skills 列表
 
-> 仓库刚初始化，Skills 持续添加中。
-
 | Skill | 说明 |
 | --- | --- |
+| `china-regions` | 从民政部 API 获取或更新全国省市区行政区划数据，生成 Ant Design Cascader 格式的 JSON 文件 |
 
 ## 安装
 
