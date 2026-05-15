@@ -1,0 +1,10 @@
+{
+  "name": "noah-skills",
+  "version": "0.1.0",
+  "description": "Noah 的个人 Claude Code Skills 集合",
+  "author": {
+    "name": "嵇正超"
+  },
+  "repository": "https://github.com/noahjzc/skills",
+  "license": "MIT"
+}
